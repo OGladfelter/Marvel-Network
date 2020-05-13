@@ -1,6 +1,6 @@
 # Marvel-Network
 
-Data and code behind this article: https://ogladfelter.journoportfolio.com/articles/whos-joining-the-marvel-cinematic-universe-after-infinity-wars/
+Scraping and analyzing data from the online Marvel wiki.
 
 allMarvel616Characters.csv -- names and URLs to all 26,461 characters of the Earth-616 universe (as of 10/17/18)
 
